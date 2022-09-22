@@ -12,6 +12,7 @@ int main()
 	cin >> t;
 	
 	cout << endl << endl;
+	cout << 2*(p*l) + 2*(l*t) + 2*(p*t) << endl;
 	cout << p * l* t<< endl;
 	return 0;
 }
